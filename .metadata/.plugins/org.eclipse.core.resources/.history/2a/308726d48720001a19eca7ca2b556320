@@ -1,7 +1,0 @@
-
-class karna {
-	public static void main(String args[]){
-		System.out.println ("karna first java project!");	
-		 
-	}
-}
